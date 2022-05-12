@@ -15,3 +15,15 @@
 <a href="https://ibb.co/JqdwJD8"><img src="https://i.ibb.co/gd7LKkQ/Kaya-T-rman-Dereceleri.jpg" alt="Kaya-T-rman-Dereceleri" border="0"></a>
 
 ---
+
+```pyhton
+print("hello world")
+```
+
+```javascript
+console.log("hello world")
+
+function helloworld() {
+    console.log("hello world")
+}
+```
